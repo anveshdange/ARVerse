@@ -1,0 +1,6 @@
+##for anaconda 
+#anaconda 
+
+django 
+django-admin 
+pillow 
